@@ -1,0 +1,11 @@
+[
+    { "date": "26.04", "name": "Name1", "count": 5, "distance": "5" },
+    { "date": "27.04", "name": "name2", "count": 1, "distance": "2" },
+    { "date": "20.04", "name": "name3", "count": 2, "distance": "11" },
+    { "date": "23.04", "name": "name4", "count": 87, "distance": "67" },
+    { "date": "22.04", "name": "name5", "count": 5, "distance": "34" },
+    { "date": "26.04", "name": "Name1", "count": 5, "distance": "5" },
+    { "date": "27.04", "name": "name2", "count": 1, "distance": "2" },
+    { "date": "20.04", "name": "name3", "count": 2, "distance": "11" },
+    { "date": "23.04", "name": "name4", "count": 87, "distance": "67" }
+  ]
